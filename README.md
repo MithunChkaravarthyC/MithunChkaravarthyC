@@ -45,9 +45,6 @@
 
   <!-- Most Used Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithunChkaravarthyC&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="60%" />
-
-</div>
-
 </div>
   <br/><br/>
 
