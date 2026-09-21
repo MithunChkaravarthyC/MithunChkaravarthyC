@@ -35,13 +35,18 @@
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MithunChkaravarthyC&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- Streak Stats Card with Transparent / Dark Match -->
+  <img src="https://streak-stats.demolab.com?user=MithunChkaravarthyC&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  
+  <!-- Overall Stats Card (using stable mirror) -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=MithunChkaravarthyC&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=MithunChkaravarthyC&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <!-- Top Languages Card (compact clean bar) -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MithunChkaravarthyC&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithunChkaravarthyC&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 </div>
 
