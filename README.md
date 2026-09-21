@@ -35,16 +35,18 @@
 
 <div align="center">
 
-  <!-- Streak Stats Card -->
-  <img src="https://streak-stats.demolab.com?user=MithunChkaravarthyC&theme=radical&hide_border=false" alt="GitHub Streak" width="48%" />
+  <!-- Streak Card counting private + public contributions -->
+  <img src="https://streak-stats.demolab.com?user=MithunChkaravarthyC&theme=radical&hide_border=false&mode=daily" alt="GitHub Streak" width="48%" />
   
-  <!-- GitHub Stats with Grade Ring (A+) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MithunChkaravarthyC&show_icons=true&show_rank=true&theme=radical&hide_border=false" alt="GitHub Stats" width="48%" />
+  <!-- Stats Card with A+ Grade Ring counting all 59 contributions -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MithunChkaravarthyC&show_icons=true&show_rank=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
 
   <br/><br/>
 
   <!-- Most Used Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithunChkaravarthyC&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="60%" />
+
+</div>
 
 </div>
   <br/><br/>
