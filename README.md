@@ -35,12 +35,18 @@
 
 <div align="center">
 
-  <!-- Streak Stats Card with Transparent / Dark Match -->
-  <img src="https://streak-stats.demolab.com?user=MithunChkaravarthyC&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <!-- Streak Stats Card -->
+  <img src="https://streak-stats.demolab.com?user=MithunChkaravarthyC&theme=radical&hide_border=false" alt="GitHub Streak" width="48%" />
   
-  <!-- Overall Stats Card (using stable mirror) -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=MithunChkaravarthyC&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <!-- GitHub Stats with Grade Ring (A+) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MithunChkaravarthyC&show_icons=true&show_rank=true&theme=radical&hide_border=false" alt="GitHub Stats" width="48%" />
 
+  <br/><br/>
+
+  <!-- Most Used Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithunChkaravarthyC&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="60%" />
+
+</div>
   <br/><br/>
 
   <!-- Top Languages Card (compact clean bar) -->
